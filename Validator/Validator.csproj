@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.5.3"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0"/>
+  </ItemGroup>
+
+   <ItemGroup>
+    <ProjectReference Include="..\Moj\Moj.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\ViewModels\ViewModels.csproj" />
+  </ItemGroup>
+  
+</Project>
