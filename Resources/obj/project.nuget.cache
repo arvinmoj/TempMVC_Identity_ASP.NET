@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rRowtDizN3cZnQZ2cmZ6f2phEuvAyh3UEbMfdTLGQvUObpPd5vavZQbHnE/jKJ5CvgathnM8RBol9zJODMImEg==",
+  "dgSpecHash": "83wb/eUi9TsCmfO0r1PPTj28puWozUBubs5xGje7Y5aiPFczKtN7PGoYhyVwq2SuJRekX2UlM9Dv9PB6nl8i7g==",
   "success": true,
   "projectFilePath": "/Users/macbook/Desktop/TempMVC_Identity_ASP.NET/Resources/Resources.csproj",
   "expectedPackageFiles": [
-    "/Users/macbook/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/macbook/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

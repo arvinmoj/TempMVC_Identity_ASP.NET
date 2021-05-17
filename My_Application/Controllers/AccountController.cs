@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace My_Application.Controllers
 {
-    public class AccountController : Controller
+    public class AccountController : Infrastructure.BaseController
     {
         // IMessageSender 
         private readonly IMessageSender _messageSender;
